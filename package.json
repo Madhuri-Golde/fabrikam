@@ -1,0 +1,22 @@
+{
+  "name": "fabrikam",
+  "version": "1.0.0",
+  "description": "SDM_Docker_Exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhuri-Golde/fabrikam.git"
+  },
+  "author": "Madhuri Golde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madhuri-Golde/fabrikam/issues"
+  },
+  "homepage": "https://github.com/Madhuri-Golde/fabrikam#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
